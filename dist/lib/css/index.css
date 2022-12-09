@@ -1,0 +1,34 @@
+
+body{
+	background: #D2D7D3;
+}
+
+.news-topic{
+	background: #22313F;
+	margin: 1em 0;
+}
+.newspaper{
+	font-size: 2em;
+	color: #ccc;
+}
+.topic{
+	font-size: 2em;
+	color: #D35400;
+}
+.headline-wrapper{
+	background: #D2D7D3;
+	font-size: 1.4em;
+	padding: 0.3em 0;
+}
+.headline-wrapper a{
+	color: #000;
+}
+.headline-wrapper a:visited, .headline-wrapper a:active{
+	color: #00c;
+}
+.headline-wrapper:nth-child(even){
+	background: #EEEEEE;
+}
+.headline-wrapper:nth-child(odd){
+	background: #DADFE1;
+}
